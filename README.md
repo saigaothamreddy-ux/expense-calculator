@@ -8,16 +8,9 @@ A premium, dark-themed local desktop application for tracking daily cash flow an
 [![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-teal.svg)](https://github.com/TomSchimansky/CustomTkinter)
 [![SQLite](https://img.shields.io/badge/Database-SQLite3-lightgrey.svg)](https://sqlite.org)
 
-**[📥 Download the latest .exe Release](#download)**
-
 </div>
 
 ---
-
-## 📸 Interface Overview
-
-*(Drop a clean screenshot of your app running here. Save the image in an `assets` folder as `dashboard.png`)*
-![Dashboard Screenshot](assets/dashboard.png)
 
 ## ✨ Core Features
 
@@ -26,11 +19,6 @@ A premium, dark-themed local desktop application for tracking daily cash flow an
 *   **Dynamic Categories:** Break away from rigid templates. Add custom income and expense categories on the fly directly from the UI.
 *   **Time-Travel Logging:** Pre-fills today's date, but easily accepts historical dates for backlogging forgotten transactions.
 *   **Instant Export:** One-click CSV export engine to dump your entire financial history for tax season or Excel analysis.
-
-## 🚀 See it in Action
-
-*(Record a quick 10-second screen recording using tools like ScreenToGif or OBS showing you adding a transaction, and save it as `demo.gif`)*
-![App Demo](assets/demo.gif)
 
 ---
 
