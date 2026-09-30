@@ -1,0 +1,12 @@
+# Database
+*.db
+expenses.db
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller Build Files
+build/
+dist/
+*.spec
