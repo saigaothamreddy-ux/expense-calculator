@@ -1,8 +1,3 @@
-"""
-Premium Dark-Themed Daily Expense Calculator
-Built with CustomTkinter & SQLite3 (Clean / Generic Edition)
-"""
-
 import sys
 import os
 import sqlite3
